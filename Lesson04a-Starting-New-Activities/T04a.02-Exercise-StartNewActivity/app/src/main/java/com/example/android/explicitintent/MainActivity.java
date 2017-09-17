@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
 
                 // TODO (1) Store ChildActivity.class in a Class object called destinationActivity
 
+
                 // TODO (2) Create an Intent to start ChildActivity
 
                 // TODO (3) Replace the Toast with code to start ChildActivity
